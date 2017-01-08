@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mi Restaurante</string>
+    <string name="table_format">Mesa %d</string>
+    <string name="total_to_pay">Total a pagar</string>
+    <string name="detail_title_plate">Detalle del plato</string>
+    <string name="error">Error</string>
+    <string name="plates_download_error">Ha ocurrido un error en la descarga</string>
+    <string name="price_format">%.2f €</string>
+    <string name="dialog_to_info_pay">El total a pagar de la mesa es de %.2f €.</string>
+    <string name="retry">Reintentar</string>
+    <string name="select_plate">Seleccione plato</string>
+    <string name="add_plate">Añadir plato</string>
+    <string name="settings">Ajustes</string>
+    <string name="menu_total_pay">Ver total a pagar</string>
+    <string name="menu_clean_table">Limpiar mesa</string>
+    <string name="select_number_tables">Especifique el número de mesas</string>
+</resources>
